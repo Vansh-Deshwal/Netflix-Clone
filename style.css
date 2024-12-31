@@ -484,6 +484,10 @@ body {
       text-decoration: underline;
 }
 
+.help span:hover{
+      cursor: pointer;
+}     
+
 .footer-links-parent{
       width: 85%;
       height: 30%;
